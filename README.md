@@ -3,15 +3,15 @@ Hi 👋, I'm Linette Correia, a data science and analytics enthusiast!
 
 About Me:
 
-Currently pursuing an MSc in Statistics & Data Science.
+Currently Working as an Associate Product Manager at IDfy - Baldor Technologies on Project Insights Service and Privy-DPDP Complaint Solution.
 
-Completed my Bachelor's in Statistics.
+Completed my Master of Science in Statistics & Data Science and Bachelor of Science in Statistics.
 
-Proficient in Python, SQL, Tableau, MS Excel, R programming, and statistical analysis.
+Proficient in Python, SQL, Tableau, MS Excel, Metabase and statistical analysis.
 
-Skilled in data pre-processing, data visualization, data analytics, and machine learning.
+Skilled in data pre-processing, data visualisation, data analytics, and machine learning.
 
-Want to collaborate on a project or just chat about data science and analytics? Let's connect!
+Want to collaborate on a project or chat about data science and analytics? Let's connect!
 
 📫 [LinkedIn] https://www.linkedin.com/in/linette-correia/
 
